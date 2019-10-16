@@ -1,6 +1,6 @@
 # ina260_RaspberryPi
-Library to measurement current sensor ina260 to RaspberryPi
+Library for measuring current sensor ina260 with RaspberryPi
 
 # Usage
-Raspberry Pi 2 model B+
+RaspberryPi2 model B
 
