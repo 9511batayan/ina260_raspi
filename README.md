@@ -1,4 +1,4 @@
-# ina260_RaspberryPi
+# ina260_raspi
 Library for measuring current sensor ina260 with RaspberryPi
 C++ and I2C
 
